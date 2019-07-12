@@ -1,0 +1,28 @@
+whats changed:
+*added in-game music
+*added josh complaining to gameover screen
+*added sad music to gameover screen
+*added diamond power up (only appears after score: 50)
+	- slows enemies
+	- temporarily stops spawning of enemies and powerups
+*decreased the difficulty rise by 60% (the game gets harder at a slower pace)
+*changed y-value of enemy spawns to outside the camera view
+
+
+
+goals: 
+provide new in-game sound effects for the enemies and player [hard]
+create new powerups that provide different benefits/advs [medium]
+create new enemies with different movements [hard]
+create a main menu with buttons and interactables [hard]
+save high scores to be able to be viewed in the future [hard]
+
+
+possible goals:
+provide sounds and animations for player when hit by enemy, or when gaining powerup
+create new players that have different advantages/disadvantages 
+
+
+
+
+

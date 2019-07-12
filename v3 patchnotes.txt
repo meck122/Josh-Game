@@ -1,0 +1,17 @@
+*Enderman changes:
+	-only spawn after score 25
+	-move in diagonal direction
+
+*Diamond changes:
+	-spawn less frequently
+	-fall slower, easier to grab
+
+*Sounds:
+	-josh 'nooooo' sound at pigman death
+	-josh 'stupid frikin endy' at enderman death
+	-'ding' sound when picking up diamond
+	-music sound decreased
+
+*Gameover 'animation' added (flip-flip animation) after zoom in
+
+
